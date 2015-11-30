@@ -1,24 +1,24 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.facebook.com/photo.php?fbid=10151983777431411&set=t.100000176306642&type=3&theater'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-30T18:58:24.302Z'
-dateModified: '2015-11-30T18:57:26.863Z'
+datePublished: '2015-11-30T19:01:51.303Z'
+dateModified: '2015-11-30T19:01:44.667Z'
 author: []
 title: Little Boy
+sourcePath: _posts/2015-11-30-little-boy.md
+published: true
 authors: []
 publisher:
   name: facebook.com
   domain: www.facebook.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-30-little-boy.md
-published: true
-url: little-boy/index.html
 _context: 'http://schema.org'
 _type: Article
 
