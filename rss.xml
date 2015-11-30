@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Eric Ladd]]></title>
         <description><![CDATA[Eric Ladd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eric-ladd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 18:48:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 18:53:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eric-ladd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-ash2/v/t34.0-12/1533200_10152123995627165_1264449359_n.jpg?oh=b97e97260a2e6ca173d869ed0fa1adee&oe=565F6634">]]></description>
+            <link>https://thegrid.ai/eric-ladd/4d85d41f-2b0e-4611-8c66-a21df4225f8c/index.html</link>
+            <guid isPermaLink="false">4d85d41f-2b0e-4611-8c66-a21df4225f8c</guid>
+            <pubDate>Mon, 30 Nov 2015 18:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/eric-ladd/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">4e0377c8-43ee-43b4-ab50-fc28d1388dd8</guid>
             <pubDate>Mon, 30 Nov 2015 18:48:17 GMT</pubDate>
         </item>
