@@ -1,6 +1,6 @@
 name: Eric Ladd
 favicon: null
-layout_spectrum: 0.98314
+layout_spectrum: 1
 typography_spectrum: 0.8959
 title: My Life
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9375
-  lightness: 0.4375
-  saturation: 0.75
+    - '#45c4b1'
+    - '#d1d5e1'
+    - '#017664'
+    - '#151412'
+    - '#999da8'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.9375
   rhythmicContrast: 0.25
 purpose: []
