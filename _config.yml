@@ -1,7 +1,7 @@
 name: Eric Ladd
 favicon: null
-layout_spectrum: 0.8889869740232825
-typography_spectrum: 0.2914353155065328
+layout_spectrum: 0.98314
+typography_spectrum: 0.8959
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.504633899545297
-  lightness: 0.06489383755251765
-  saturation: 0.6997364675626159
-  rhythmicContrast: 0.043499867897480726
+  brandStrength: 0.6875
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
