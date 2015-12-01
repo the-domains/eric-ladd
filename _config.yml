@@ -1,29 +1,41 @@
-name: Eric Ladd
-favicon: null
-layout_spectrum: 0.2643
-typography_spectrum: 0.7502
 title: My Life
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Eric Ladd
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.5
+  saturation: 0.9375
   brandColors:
     - '#45c4b1'
     - '#d1d5e1'
     - '#017664'
     - '#151412'
     - '#999da8'
-  brandStrength: 0.5
   lightness: 0.4375
-  saturation: 0.9375
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.7502
