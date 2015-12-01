@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A visual account of my life.
-datePublished: '2015-11-30T22:54:06.241Z'
-dateModified: '2015-11-30T22:53:51.945Z'
+datePublished: '2015-12-01T15:11:59.329Z'
+dateModified: '2015-12-01T15:09:37.246Z'
 title: "Eric's Life"
 author: []
 sourcePath: _posts/2015-11-30-erics-life.md
